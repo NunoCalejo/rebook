@@ -9,3 +9,5 @@
 *.so
 .DS_Store
 *.pyc
+/Camera
+/Results
